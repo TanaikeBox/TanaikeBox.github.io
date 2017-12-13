@@ -8,19 +8,29 @@
   </url>
   
   <url>
+    <loc>https://TanaikeBox.github.io/about/</loc>
+    <lastmod>2017-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://TanaikeBox.github.io/contact/</loc>
+    <lastmod>2016-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://TanaikeBox.github.io/post/</loc>
     <lastmod>2017-12-13T15:09:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://TanaikeBox.github.io/tags/privacypolicy/</loc>
+    <loc>https://TanaikeBox.github.io/topics/privacypolicy/</loc>
     <lastmod>2017-12-13T15:09:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://TanaikeBox.github.io/topics/privacypolicy/</loc>
+    <loc>https://TanaikeBox.github.io/tags/privacypolicy/</loc>
     <lastmod>2017-12-13T15:09:19+09:00</lastmod>
     <priority>0</priority>
   </url>
