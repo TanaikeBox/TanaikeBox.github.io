@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 13 Dec 2017 15:09:19 +0900</lastBuildDate>
     
 	<atom:link href="https://TanaikeBox.github.io/topics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Privacypolicy</title>
+      <link>https://TanaikeBox.github.io/topics/privacypolicy/</link>
+      <pubDate>Wed, 13 Dec 2017 15:09:19 +0900</pubDate>
+      
+      <guid>https://TanaikeBox.github.io/topics/privacypolicy/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

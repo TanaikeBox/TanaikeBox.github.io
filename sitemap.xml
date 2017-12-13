@@ -3,17 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://TanaikeBox.github.io/2017/12/13/privacy-policy/</loc>
+    <lastmod>2017-12-13T15:09:19+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://TanaikeBox.github.io/post/</loc>
+    <lastmod>2017-12-13T15:09:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://TanaikeBox.github.io/tags/privacypolicy/</loc>
+    <lastmod>2017-12-13T15:09:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://TanaikeBox.github.io/topics/privacypolicy/</loc>
+    <lastmod>2017-12-13T15:09:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://TanaikeBox.github.io/tags/rearrangescripts/</loc>
+    <lastmod>2017-12-13T15:09:19+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://TanaikeBox.github.io/tags/</loc>
+    <lastmod>2017-12-13T15:09:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://TanaikeBox.github.io/topics/</loc>
+    <lastmod>2017-12-13T15:09:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://TanaikeBox.github.io/</loc>
+    <lastmod>2017-12-13T15:09:19+09:00</lastmod>
     <priority>0</priority>
   </url>
   
