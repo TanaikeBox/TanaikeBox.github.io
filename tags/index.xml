@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 13 Dec 2017 15:09:19 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2018 14:21:50 +0900</lastBuildDate>
     
 	<atom:link href="https://TanaikeBox.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Privacypolicy</title>
       <link>https://TanaikeBox.github.io/tags/privacypolicy/</link>
-      <pubDate>Wed, 13 Dec 2017 15:09:19 +0900</pubDate>
+      <pubDate>Wed, 03 Jan 2018 14:21:50 +0900</pubDate>
       
       <guid>https://TanaikeBox.github.io/tags/privacypolicy/</guid>
       <description></description>
@@ -27,6 +27,15 @@
       <pubDate>Wed, 13 Dec 2017 15:09:19 +0900</pubDate>
       
       <guid>https://TanaikeBox.github.io/tags/rearrangescripts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shapeapp</title>
+      <link>https://TanaikeBox.github.io/tags/shapeapp/</link>
+      <pubDate>Wed, 03 Jan 2018 14:21:50 +0900</pubDate>
+      
+      <guid>https://TanaikeBox.github.io/tags/shapeapp/</guid>
       <description></description>
     </item>
     

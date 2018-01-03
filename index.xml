@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 13 Dec 2017 15:09:19 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2018 14:21:50 +0900</lastBuildDate>
     
 	<atom:link href="https://TanaikeBox.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://TanaikeBox.github.io/2018/01/03/privacy-policy/</link>
+      <pubDate>Wed, 03 Jan 2018 14:21:50 +0900</pubDate>
+      
+      <guid>https://TanaikeBox.github.io/2018/01/03/privacy-policy/</guid>
+      <description>ShapeApp Welcome to privacy policy.
+These are not usual blah blah, everything that you read below are crisp and to the point.
+When you use our services we respect your privacy and data security. None of your data is collected or distributed by any of our server and scripts. Whatever information that we collect are stored in your own spaces in Google Drive.
+Something that we ask and why.</description>
+    </item>
     
     <item>
       <title>Privacy Policy</title>
